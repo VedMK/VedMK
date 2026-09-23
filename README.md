@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Learning cybersecurity through hands-on labs, CTF challenges, security projects and experimentation.
+  Learning cybersecurity through labs, CTFs, security projects and experimentation.
 </p>
 
 <p align="center">
