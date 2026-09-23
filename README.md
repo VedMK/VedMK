@@ -27,57 +27,16 @@ I'm **Ved**, a Grade 12 student building a practical foundation in cybersecurity
 
 Currently focused on:
 
-- 🌐 Web Application Security
-- 🔎 OSINT
-- 🚩 CTF Challenges
-- 🐧 Linux & Networking
-- 🐍 Python Security Projects
+- Web Application Security
+- OSINT
+- CTF Challenges
+- Linux & Networking
+- Python Security Projects
 
 Long-term, I'm interested in **Cloud Security Engineering**.
 
 ---
 
-## 🛠️ Tools & Technologies
-
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-FFD700?style=for-the-badge&logo=kalilinux&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FFD700?style=for-the-badge&logo=burpsuite&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-FFD700?style=for-the-badge&logo=wireshark&logoColor=black)
-
-</p>
-
----
-
-## 🔐 My Cybersecurity Portfolio
-
-My main repository contains my projects, labs, CTF writeups and practical cybersecurity work.
-
-### 🚀 Projects
-- [Log Analyzer](https://github.com/VedMK/BCS-portfolio-Ved/tree/main/Projects/Log-Analyzer)
-- [Directory Fuzzer](https://github.com/VedMK/BCS-portfolio-Ved/tree/main/Projects/Directory-Fuzzer)
-
-### 🧪 Labs
-- [PortSwigger Web Security Academy](https://github.com/VedMK/BCS-portfolio-Ved/tree/main/Labs/PortSwigger)
-- OWASP Juice Shop
-- DVWA
-
-### 🚩 CTFs
-- [CTF Writeups](https://github.com/VedMK/BCS-portfolio-Ved/tree/main/CTFs/Writeups)
-- Web Security
-- OSINT
-- Linux
-
-<p align="center">
-  <a href="https://github.com/VedMK/BCS-portfolio-Ved">
-    <b>→ Explore the full portfolio</b>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Learn → Investigate → Build → Break → Understand → Document</i>
+Check out my portfolio
 </p>
