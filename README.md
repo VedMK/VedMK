@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  You can find my work through the badges below.
+</p>
+
+<p align="center">
   <a href="https://github.com/VedMK/BCS-portfolio-Ved">
     <img src="https://img.shields.io/badge/Cybersecurity_Portfolio-FFD700?style=for-the-badge&logo=github&logoColor=black">
   </a>
